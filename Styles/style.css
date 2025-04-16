@@ -1,0 +1,21 @@
+body.alt-style {
+  background-color: #f0f0f0;
+  color: #003366;
+  font-family: Georgia, serif;
+}
+
+button {
+  margin: 5px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+body {
+  background-image: url('pexels-ekaterina-bolovtsova-7307547.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  color: #333; /* Darker text color for readability */
+}
+  
